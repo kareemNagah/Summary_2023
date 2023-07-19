@@ -9,4 +9,4 @@ This repository contains my summary notebooks for various topics. Each notebook 
 
 ## Usage
 
-To view the notebooks, simply click on the links in the table of contents above. Each notebook is organized into sections, with headings for each concept, tip, or trick. You can navigate between sections using the table of contents on the left-hand side of the notebook.
+To view the notebooks, simply click on the links in the table of contents above. Each notebook is organized into sections, with headings for each concept, tip, or trick.
