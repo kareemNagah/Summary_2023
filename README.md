@@ -4,7 +4,7 @@ This repository contains my summary notebooks for various topics. Each notebook 
 
 ## Table of Contents
 
-- [Data Visualization]([topic1/README.md](https://github.com/kareemNagah/Summary_2023/tree/main/Data%20Visualization))
+- [Data Visualization]([https://github.com/kareemNagah/Summary_2023/tree/main/Data%20Visualization])
 - [Topic 2](topic2/README.md)
 - [Topic 3](topic3/README.md)
 
