@@ -3,9 +3,9 @@
 This repository contains my summary notebooks for various topics. Each notebook contains a summary of key concepts, tips, and tricks that I've learned in my studies. I've created these notebooks to help me review and reinforce my understanding of these topics, and I hope they can be helpful to others too.
 
 ## Table of Contents
-- Data Cleaning
-- Data Visualization
+
 - Python Notes
+-  Data Visualization
 
 ## Usage
 
