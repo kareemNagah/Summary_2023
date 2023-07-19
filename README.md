@@ -4,8 +4,8 @@ This repository contains my summary notebooks for various topics. Each notebook 
 
 ## Table of Contents
 
-- [Python Notes](https://github.com/kareemNagah/Summary_2023/tree/main/Data%20Visualization)
--  Data Visualization
+- [Python Notes](https://github.com/kareemNagah/Summary_2023/tree/main/python)
+-  [Data Visualization](https://github.com/kareemNagah/Summary_2023/tree/main/Data%20Visualization)
 
 ## Usage
 
